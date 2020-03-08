@@ -10,11 +10,14 @@ As such, all forms of humanities could benefit from students and graduates havin
 However, I believe that making use of tools which simply analyze text and represent trends and topics graphically is a substandard use of critical analysis and data representation. Observing the way which Moretti and Drucker use graphics, charts and maps to humanize data can prove to be an exemplary starting point for those who are studying the digital humanities. 
 
 Moving forward, I will summarize why Drucker and Moretti have such potential to shift the Humanities by examining Drucker’s “Humanities Approaches to Graphical Display” and Moretti’s “Graphs, Maps, Trees.” Subsequently, I will follow up on certain examples used in their work by reinterpreting the data they have given to create new graphical representations which provide additional depth to their analyses. 
-
 <br/>
+
 ## Sous-Titre
-<br/>
 
+Content here
+
+<br/>
+<br/>
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
 http and https sites, but if you're embedding this into a local web page (file protocol)
@@ -22,18 +25,18 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
  <iframe style='width: 477px; height: 350px;' src='https://voyant-tools.org/tool/Trends/?query=humanities&query=novel&query=digital&query=time&query=novels&corpus=fab9e933b97d55c927b3219c4f3f4fc2'></iframe> 
- 
  <br/>
  <br/>
  
- ## Sous-Titre
- <br/>
-
+ ##  Sous-Titre
+ 
+ Content here
 <!-- <iframe style="width: 100%; height: 1000px;" src="processing/index.html"></iframe> -->
 
 <br/>
 <br/>
 ## Sous-Titre
-<br/>
 
+Content here
+<br/>
 ![](imagez/TopicModellingTable.png)

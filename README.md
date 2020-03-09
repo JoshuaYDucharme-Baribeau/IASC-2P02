@@ -3,7 +3,7 @@
 I am currently a student at Brock University, studying Interactive Arts and Science. I hope that my studies will allow me to work as a user experience designer who specializes in user interface design.
 
 
-![](imagez/placeholderBobRoss.jpg)
+![](imagez/.jpg)
 
 ## Blog Post
 

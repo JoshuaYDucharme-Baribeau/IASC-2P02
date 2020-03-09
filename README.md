@@ -7,4 +7,4 @@ I am currently a student at Brock University, studying Interactive Arts and Scie
 
 ## Blog Post
 
-First Sentence of Blog Post HERE [continue reading...](blog)
+Non-textual representations of information can and should be used to represent cultural phenomena. Moving between written and visual mediums offers new paradigms for digital humanities where readers can think critically for both textual and graphical modes.[continue reading...](blog)

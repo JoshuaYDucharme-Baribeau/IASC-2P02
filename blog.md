@@ -29,24 +29,23 @@ Content
 <br/>
 Intro to Drucker points
 <br/>
-### Cirrus for Drucker
-<br/>
-<!--    ![](imagez/TopicModellingTable.png)     PLACEHOLDER!!!!!!!!!!!!!!! -->
+
+!.[.].(imagez/graphs/Dfigure03.png)
 Figure 1. A basic bar chart compares the number of men (top bar) and the number of women (bottom bar) in seven different nations, A through F, at the present time (2010). The assumptions are that quantities (number), entities (nations), identities (gender) and temporality (now) are all self-evident. Graphic credit Xárene Eskandar.
+<br/>
 
-<!--    ![](imagez/TopicModellingTable.png)     PLACEHOLDER!!!!!!!!!!!!!!! -->
+!.[.].(imagez/graphs/Dfigure04.png)
 Figure 2. In this chart gendered identity is modified. In nation A, the top bar contains a changing gradient, indicating that “man” is a continuum from male enfant to adult, or in countries E and D, that gender ambiguity is a factor of genetic mutation or adaptation, thus showing that basis on which gendered individuals are identified and counted is complicated by many factors. In country F women only register as individuals after coming of reproductive age, thus showing that quantity is a effect of cultural conditions, not a self-evident fact. The movement of men back and forth across the border of nations B and C makes the “nations” unstable entities. Graphic credit Xárene Eskandar.
+<br/>
 
-<br/>
-### Topic Models for Drucker
-<br/>
-<!--    ![](imagez/TopicModellingTable.png)     PLACEHOLDER!!!!!!!!!!!!!!! -->
+
+!.[.].(imagez/graphs/Dfigure01.jpg)
 Figure 3. A chart shows the number of new novels put into print by a single publisher in the years 1855-1862.
+<br/>
 
-
-<!--    ![](imagez/TopicModellingTable.png)     PLACEHOLDER!!!!!!!!!!!!!!! -->
+!.[.].(imagez/graphs/Dfigure02.jpg)
 Figure 4. The “appearance” in 1855 of fourteen novels is shown in relation to the time of writing, acquisition, editing, pre-press work, and release thus showing publication date as a factor of many other processes whose temporal range is very varied. The date of a work, in terms of its cultural identity and relevance, can be considered in relation to any number of variables, not just the moment of its publication. Graphic credit Xárene Eskandar.
-
+<br/>
 
 <iframe style='width: 509px; height: 330px;' src='https://voyant-tools.org/tool/Cirrus/?visible=25&corpus=cc745d48267e0d33902df78b7d9f644f'></iframe> 
 

@@ -14,13 +14,13 @@ Intro to Moretti points
 <br/>
 ### Figure 1 of Moretti
 <br/>
-![](imagez/graphs/Mfigure01.png)
+![](imagez/graphs/Mfig01.png)
 <br/>
 Content
 <br/>
 ### Figure 5 of Moretti
 <br/> 
-![](imagez/graphs/Mfigure02.png)
+![](imagez/graphs/Mfig02.png)
 <br/>
 Content
 <br/>

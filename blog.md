@@ -75,8 +75,13 @@ Creating digital graphics with data allows humanists to show things that weren't
 <br/>
 <iframe style='width: 509px; height: 330px;' src='https://voyant-tools.org/tool/Cirrus/?visible=25&corpus=cc745d48267e0d33902df78b7d9f644f'></iframe> 
 <br/>
-However algorithmic analysis and topic modelling have to be carefully catered to in order to be useful. The topics modelled below will likely be understood by those who have read Drucker's article, or even read this blog. However, even if these topics were to be represented graphically or compared to other texts, the applications of the resulting information are very limited
+However algorithmic analysis and topic modelling have to be carefully catered to in order to be useful. The topics modelled below will likely be understood by those who have read Drucker's article, or even read this blog. However, even if these topics were to be represented graphically or compared to other texts, the applications of the resulting information are very limited.
 <br/>
 <iframe style='width: 508px; height: 330px;' src='https://voyant-tools.org/tool/Topics/?numTopics=10&limit=6&corpus=cc745d48267e0d33902df78b7d9f644f'></iframe>
 <br/>
 As one may notice, the information of topic models is very limited, and quite the opposite of *humanized*. Perhaps it is simply a matter of finding the right way to look at the data... 
+<br/>
+<br/>
+<br/>
+Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” A New Companion to Digital Humanities, 2015, pp. 238–250., doi:10.1002/9781118680605.ch17.
+Moretti, Franco. "GRAPHS, MAPS TREES." New Left Review, 2003, pp. 67-93., https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf

@@ -10,29 +10,32 @@ Moving forward, I will summarize why Drucker and Moretti have such potential to 
 <br/>
 
 ## Moretti: Contextualizing Quantitative data
+Intro to Moretti points
+<br/>
+### Figure 1 of Moretti
+<!--    ![](imagez/TopicModellingTable.png)     PLACEHOLDER!!!!!!!!!!!!!!! -->
+<br/>
+Content
+<br/>
+### Figure 5 of Moretti
+<br/> 
+<!--    ![](imagez/TopicModellingTable.png)     PLACEHOLDER!!!!!!!!!!!!!!! -->
+<br/>
+Content
+<br/>
+<br/>
 
- 
+## Drucker: Humanizing data
 <br/>
+Intro to Drucker points
 <br/>
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
- <iframe style='width: 477px; height: 350px;' src='https://voyant-tools.org/tool/Trends/?query=humanities&query=novel&query=digital&query=time&query=novels&corpus=fab9e933b97d55c927b3219c4f3f4fc2'></iframe> 
- <br/>
- <br/>
- 
- ## Sous-Titre
- 
- Content here
-<!-- <iframe style="width: 100%; height: 1000px;" src="processing/index.html"></iframe> -->
+### Cirrus for Drucker
+<br/>
+Content
+<br/>
+### Topic Models for Drucker
+<br/>
 
-<br/>
-<br/>
-## Sous-Titre
-
-Content here
+<iframe style='width: 509px; height: 330px;' src='https://voyant-tools.org/tool/Cirrus/?visible=25&corpus=cc745d48267e0d33902df78b7d9f644f'></iframe> <iframe style='width: 508px; height: 330px;' src='https://voyant-tools.org/tool/Topics/?numTopics=10&limit=6&corpus=cc745d48267e0d33902df78b7d9f644f'></iframe>
 <br/>
 ![](imagez/TopicModellingTable.png)

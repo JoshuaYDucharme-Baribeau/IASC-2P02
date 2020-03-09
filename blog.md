@@ -10,7 +10,10 @@ Moving forward, I will summarize why Drucker and Moretti have such potential to 
 <br/>
 
 ## Moretti: Contextualizing Quantitative data
+<br/>
+<br/>
 Intro to Moretti points
+<br/>
 <br/>
 ### Figure 1 of Moretti
 <br/>
@@ -28,9 +31,10 @@ Content
 
 ## Drucker: Humanizing data
 <br/>
+<br/>
 Intro to Drucker points
 <br/>
-
+<br/>
 ![](imagez/graphs/Dfigure03.jpg)
 <br/>
 Figure 1. A basic bar chart compares the number of men (top bar) and the number of women (bottom bar) in seven different nations, A through F, at the present time (2010). The assumptions are that quantities (number), entities (nations), identities (gender) and temporality (now) are all self-evident. Graphic credit Xárene Eskandar.

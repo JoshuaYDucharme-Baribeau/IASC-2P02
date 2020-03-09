@@ -1,21 +1,17 @@
-## Digital Humanities
+## Representing Data in the Humanities: Untapped potential
 
-I believe that making use of topic modelling software and the resulting graphics and charts and claiming it is in the spirit of interactivity or fresh perspectives on data visualisations is wildly naive and trivializes the arguments of Moretti and Drucker.
-<br/>
-<br/>
-Visual representations of information can and should be used to represent cultural phenomena. Moving between written and visual mediums offers a new paradigm for digital humanities where readers can think critically for both textual and graphical modes. 
+Non-textual representations of information can and should be used to represent cultural phenomena. Moving between written and visual mediums offers new paradigms for digital humanities where readers can think critically for both textual and graphical modes. 
 
 As such, all forms of humanities could benefit from students and graduates having access to more multimodal artifacts. A generation of scholars exposed to more of these multidimensional graphics and educational texts will increase the overall level of critical literacy with which digital humanities workers can use to solve unique problems. 
 
-However, I believe that making use of tools which simply analyze text and represent trends and topics graphically is a substandard use of critical analysis and data representation. Observing the way which Moretti and Drucker use graphics, charts and maps to humanize data can prove to be an exemplary starting point for those who are studying the digital humanities. 
+However, I believe that making use of tools which simply analyze text and represent trends and topics graphically is a substandard use of critical analysis and data representation. Observing the way which Moretti and Drucker use graphics, charts and maps to *humanize* data can prove to be an exemplary starting point for those who are studying the digital humanities or seeking to create superior information graphics. 
 
 Moving forward, I will summarize why Drucker and Moretti have such potential to shift the Humanities by examining Drucker’s “Humanities Approaches to Graphical Display” and Moretti’s “Graphs, Maps, Trees.” Subsequently, I will follow up on certain examples used in their work by reinterpreting the data they have given to create new graphical representations which provide additional depth to their analyses. 
 <br/>
 
-## Sous-Titre
+## Moretti: Contextualizing Quantitative data
 
-Content here
-
+ 
 <br/>
 <br/>
 <!--	Exported from Voyant Tools (voyant-tools.org).
@@ -28,7 +24,7 @@ Feel free to change the height and width values or other styling below: -->
  <br/>
  <br/>
  
- ##  Sous-Titre
+ ## Sous-Titre
  
  Content here
 <!-- <iframe style="width: 100%; height: 1000px;" src="processing/index.html"></iframe> -->

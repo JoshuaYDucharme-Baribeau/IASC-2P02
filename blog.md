@@ -10,9 +10,7 @@ Moving forward, I will summarize why Drucker and Moretti have such potential to 
 <br/>
 
 ## Moretti: Contextualizing Quantitative data
-<br/>
 Intro to Moretti points
-<br/>
 <br/>
 ### Figure 1 of Moretti
 <br/>
@@ -29,9 +27,7 @@ Content
 <br/>
 
 ## Drucker: Humanizing data
-<br/>
 Intro to Drucker points
-<br/>
 <br/>
 ![](imagez/graphs/Dfigure03.jpg)
 <br/>

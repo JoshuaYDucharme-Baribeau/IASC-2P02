@@ -84,4 +84,5 @@ As one may notice, the information of topic models is very limited, and quite th
 <br/>
 <br/>
 Drucker, Johanna. “Graphical Approaches to the Digital Humanities.” A New Companion to Digital Humanities, 2015, pp. 238–250., doi:10.1002/9781118680605.ch17.
+<br/>
 Moretti, Franco. "GRAPHS, MAPS TREES." New Left Review, 2003, pp. 67-93., https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf
